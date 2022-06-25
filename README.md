@@ -12,3 +12,5 @@ Assignment 2: Transformations
 Assignment 3: Shading
 
 Assignment 4: Textures
+
+Cumulative group project, PlanetWalk, in separate repository.
